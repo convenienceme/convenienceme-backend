@@ -6,220 +6,230 @@
 	<classpathentry kind="src" path="src/test/resources"/>
 	<classpathentry kind="con" path="GROOVY_DSL_SUPPORT"/>
 	<classpathentry kind="con" path="GROOVY_SUPPORT"/>
-	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry exported="true" kind="con" path="org.springsource.ide.eclipse.gradle.classpathcontainer"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry kind="con" path="org.springsource.ide.eclipse.gradle.classpathcontainer" exported="true"/>
 	<classpathentry kind="con" path="org.springsource.ide.eclipse.gradle.dsld.classpathcontainer"/>
-	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-context/3.2.0.RELEASE/jar/b01912a07f727ec6d269f5275e783d662d3bafde/spring-context-3.2.0.RELEASE.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-context/3.2.0.RELEASE/source/73d8d7cab4e34ead82722705b97171b308dc3bd3/spring-context-3.2.0.RELEASE-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/javax.servlet.jsp.jstl/jstl-api/1.2/jar/f9a034c1ca1f79c03bb461805a688f944544d138/jstl-api-1.2.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/javax.servlet.jsp.jstl/jstl-api/1.2/source/b7b976db29290621db582b38c1db9c22ff439f89/jstl-api-1.2-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.glassfish.web/jstl-impl/1.2/jar/611c12c6b993586852685f410658924b219ca326/jstl-impl-1.2.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.glassfish.web/jstl-impl/1.2/source/2e5ebd392d8e3f79588e29bedd4f4aa5708b99cc/jstl-impl-1.2-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-webmvc/3.2.0.RELEASE/jar/369f4366a41e0da8ac9cd253c18d7ffd12e0507c/spring-webmvc-3.2.0.RELEASE.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-webmvc/3.2.0.RELEASE/source/168c190e105c99c4f0e08cd9f292d3d0b3563875/spring-webmvc-3.2.0.RELEASE-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.aspectj/aspectjrt/1.6.10/jar/30217090975652be712dcc9f0499c1cab1344927/aspectjrt-1.6.10.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.aspectj/aspectjrt/1.6.10/source/cb571f30ee80c00cec5df11ecade87a85c7a5b8d/aspectjrt-1.6.10-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/com.google.guava/guava/14.0.1/bundle/69e12f4c6aeac392555f1ea86fab82b5e5e31ad4/guava-14.0.1.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/com.google.guava/guava/14.0.1/source/169f11e28e3ed9a64e9fa895eaafb579e6a5aa6c/guava-14.0.1-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/com.twilio.sdk/twilio-java-sdk/3.3.15/jar/f4f4f85b8480c104ce7486b04fb0bf8a1ae789c2/twilio-java-sdk-3.3.15.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/com.twilio.sdk/twilio-java-sdk/3.3.15/source/eba00fb2fd417320a2c12f9c0da2e099d4040929/twilio-java-sdk-3.3.15-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/commons-fileupload/commons-fileupload/1.2.2/jar/1e48256a2341047e7d729217adeec8217f6e3a1a/commons-fileupload-1.2.2.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/commons-fileupload/commons-fileupload/1.2.2/source/8c269e2558e16ae7bab69df299d51f291a09eea0/commons-fileupload-1.2.2-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/commons-io/commons-io/2.0.1/jar/7ffdb02f95af1c1a208544e076cea5b8e66e731a/commons-io-2.0.1.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/commons-io/commons-io/2.0.1/source/8ace0a355c375f0d20d04fa0db7b986c6637a689/commons-io-2.0.1-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.slf4j/slf4j-api/1.6.1/jar/6f3b8a24bf970f17289b234284c94f43eb42f0e4/slf4j-api-1.6.1.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.slf4j/slf4j-api/1.6.1/source/46a386136c901748e6a3af67ebde6c22bc6b4524/slf4j-api-1.6.1-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.slf4j/jcl-over-slf4j/1.6.1/jar/99c61095a14dfc9e47a086068033c286bf236475/jcl-over-slf4j-1.6.1.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.slf4j/jcl-over-slf4j/1.6.1/source/dbc80dfd897e3bc528199ff97e29e44a0ac4b462/jcl-over-slf4j-1.6.1-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.slf4j/slf4j-log4j12/1.6.1/jar/bd245d6746cdd4e6203e976e21d597a46f115802/slf4j-log4j12-1.6.1.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.slf4j/slf4j-log4j12/1.6.1/source/7a26b08b265f55622fa1fed3bda68bbd37a465ba/slf4j-log4j12-1.6.1-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/log4j/log4j/1.2.16/bundle/7999a63bfccbc7c247a9aea10d83d4272bd492c6/log4j-1.2.16.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/log4j/log4j/1.2.16/source/bf945d1dc995be7fe64923625f842fbb6bf443be/log4j-1.2.16-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/javax.inject/javax.inject/1/jar/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/javax.inject/javax.inject/1/source/a00123f261762a7c5e0ec916a2c7c8298d29c400/javax.inject-1-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/net.java.dev.rome/rome/1.0.0/jar/8b4f0da455c59746435e987285b30c22b09ba18d/rome-1.0.0.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/net.java.dev.rome/rome/1.0.0/source/d42c954739798a431796f8617536860d1ae8dc6c/rome-1.0.0-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/javax.validation/validation-api/1.0.0.GA/jar/b6bd7f9d78f6fdaa3c37dae18a4bd298915f328e/validation-api-1.0.0.GA.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/javax.validation/validation-api/1.0.0.GA/source/7a561191db2203550fbfa40d534d4997624cd369/validation-api-1.0.0.GA-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.hibernate/hibernate-validator/4.1.0.Final/jar/785cceeb0b0dbd03367f45cd60eb26cd48167640/hibernate-validator-4.1.0.Final.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.hibernate/hibernate-validator/4.1.0.Final/source/5aedf89618da0bfd96c6ebb9ff88cb1876500d17/hibernate-validator-4.1.0.Final-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/joda-time/joda-time/1.6.2/jar/7a0525fe460ef5b99ea3152e6d2c0e4f24f04c51/joda-time-1.6.2.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/joda-time/joda-time/1.6.2/source/462b1672787aa4aabf1dab6f9752c2cc14bfd652/joda-time-1.6.2-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/javax.servlet.jsp/jsp-api/2.1/jar/63f943103f250ef1f3a4d5e94d145a0f961f5316/jsp-api-2.1.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/javax.servlet.jsp/jsp-api/2.1/source/1c9e754118cf8d3d85b6b1257fb6fb0f914d08c6/jsp-api-2.1-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.apache.tomcat/tomcat-servlet-api/7.0.30/jar/882c58181a25d8e1e94b3cdc231eba869f268bf8/tomcat-servlet-api-7.0.30.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.apache.tomcat/tomcat-servlet-api/7.0.30/source/2bec37aac68d5aeec53c0d8756bf63e780bcb83a/tomcat-servlet-api-7.0.30-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-test/3.2.0.RELEASE/jar/c77f6ee4d83ef5b0105a5d8aec7d35c602c56f88/spring-test-3.2.0.RELEASE.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-test/3.2.0.RELEASE/source/f8de9ebe7c693efd1f3f5e52c50a84fe33eba6d4/spring-test-3.2.0.RELEASE-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/junit/junit/4.8.2/jar/c94f54227b08100974c36170dcb53329435fe5ad/junit-4.8.2.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/junit/junit/4.8.2/source/cccca612a66b8387c399be31d69daf000de2ac9e/junit-4.8.2-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/xmlunit/xmlunit/1.2/jar/9a8543988f6a1a1e584ae7bef34fd88825c54e1e/xmlunit-1.2.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/com.jayway.jsonpath/json-path/0.8.1/bundle/fbcad75a02160def33c4359b24015cca2d91ccce/json-path-0.8.1.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/com.jayway.jsonpath/json-path/0.8.1/source/feb75e085b9416a4d817d4dd4d1e5c7ed17d9e1b/json-path-0.8.1-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.hamcrest/hamcrest-library/1.3/jar/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.hamcrest/hamcrest-library/1.3/source/47a7ee46628ab7133129cd7cef1e92657bc275e/hamcrest-library-1.3-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.codehaus.jackson/jackson-mapper-asl/1.9.3/jar/dd1373fe304f64ae3daa50e67b9b9cf6995ec1a0/jackson-mapper-asl-1.9.3.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.codehaus.jackson/jackson-mapper-asl/1.9.3/source/ff4fdbc6c12ac7ff7a727cd80cd71a059a0ec179/jackson-mapper-asl-1.9.3-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/commons-logging/commons-logging/1.1.1/jar/5043bfebc3db072ed80fbd362e7caf00e885d8ae/commons-logging-1.1.1.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/commons-logging/commons-logging/1.1.1/source/f3f156cbff0e0fb0d64bfce31a352cce4a33bc19/commons-logging-1.1.1-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-core/3.2.0.RELEASE/jar/1a80f0e1405219a19cf3e1b30812f73de8e117d/spring-core-3.2.0.RELEASE.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-core/3.2.0.RELEASE/source/91091c193613cdb0ca91450629d150fa634aa420/spring-core-3.2.0.RELEASE-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-beans/3.2.0.RELEASE/jar/70459b8d062753f8ce2441bcbb121b21c412d939/spring-beans-3.2.0.RELEASE.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-beans/3.2.0.RELEASE/source/ad3c5b55ba655de682c281923f5f6d44781204b4/spring-beans-3.2.0.RELEASE-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/aopalliance/aopalliance/1.0/jar/235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/aopalliance/aopalliance/1.0/source/4a4b6d692e17846a9f3da036438a7ac491d3c814/aopalliance-1.0-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-aop/3.2.0.RELEASE/jar/c2f83b789d0675ad7327f9aadb4f162106452ec5/spring-aop-3.2.0.RELEASE.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-aop/3.2.0.RELEASE/source/37c3664275b11b275a31b47fda903db7057c1623/spring-aop-3.2.0.RELEASE-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-expression/3.2.0.RELEASE/jar/b9273cb6246f57b40dced071ed04d80654ae5645/spring-expression-3.2.0.RELEASE.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-expression/3.2.0.RELEASE/source/860fdb4461d3ae8d21b5422d641f2e2b90e3ecc6/spring-expression-3.2.0.RELEASE-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-web/3.2.0.RELEASE/jar/1faf6a6438c43d273b6f2f7996d4a6d900b55b5a/spring-web-3.2.0.RELEASE.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-web/3.2.0.RELEASE/source/adb42bc3d0658c2d5ce768f0b2cac16d34ba4110/spring-web-3.2.0.RELEASE-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.apache.httpcomponents/httpcore/4.1.2/jar/39e30fb2ddfcf32b9dd663039ca6e847b698aa6f/httpcore-4.1.2.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.apache.httpcomponents/httpcore/4.1.2/source/b3141b5e74071e25f0f5bb337fa2ceae580bfc35/httpcore-4.1.2-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/commons-codec/commons-codec/1.4/jar/4216af16d38465bbab0f3dff8efa14204f7a399a/commons-codec-1.4.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/commons-codec/commons-codec/1.4/source/5310da9f90e843883309e9e0bf5950faa79882a0/commons-codec-1.4-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.apache.httpcomponents/httpclient/4.1.2/jar/9003011c1b6d28a7331f04251a25e7ccf63c98f8/httpclient-4.1.2.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.apache.httpcomponents/httpclient/4.1.2/source/dc49f8801031e5318f9487e2aa9e23a301c39dcd/httpclient-4.1.2-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/commons-lang/commons-lang/2.6/jar/ce1edb914c94ebc388f086c6827e8bdeec71ac2/commons-lang-2.6.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/commons-lang/commons-lang/2.6/source/67313d715fbf0ea4fd0bdb69217fb77f807a8ce5/commons-lang-2.6-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/com.googlecode.json-simple/json-simple/1.1/jar/5e303a03d04e6788dddfa3655272580ae0fc13bb/json-simple-1.1.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/com.googlecode.json-simple/json-simple/1.1/source/19c6d8dee6803c520d855ff7e8a8c3d97f1271ec/json-simple-1.1-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.codehaus.jackson/jackson-core-asl/1.9.3/jar/e96286e8ebe4c5523d5621278dc2114116108a0e/jackson-core-asl-1.9.3.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.codehaus.jackson/jackson-core-asl/1.9.3/source/b692cea649e1dd96fba1b7c0b5dfbae6f316b718/jackson-core-asl-1.9.3-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/jdom/jdom/1.0/jar/a2ac1cd690ab4c80defe7f9bce14d35934c35cec/jdom-1.0.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/jdom/jdom/1.0/source/662abe0196cf554d4d7374f5d6382034171b652c/jdom-1.0-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/net.minidev/json-smart/1.1.1/jar/24a2f903d25e004de30ac602c5b47f2d4e420a59/json-smart-1.1.1.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/net.minidev/json-smart/1.1.1/source/29bec1d88866042dcfd32c8247744bb6ef9bbf54/json-smart-1.1.1-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.hamcrest/hamcrest-core/1.3/jar/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar" sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.hamcrest/hamcrest-core/1.3/source/1dc37250fbc78e23a65a67fbbaf71d2e9cbc3c0b/hamcrest-core-1.3-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container" exported="true"/>
 	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0"/>
 	<classpathentry kind="output" path="bin"/>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-context/3.2.0.RELEASE/source/73d8d7cab4e34ead82722705b97171b308dc3bd3/spring-context-3.2.0.RELEASE-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-context/3.2.0.RELEASE/jar/b01912a07f727ec6d269f5275e783d662d3bafde/spring-context-3.2.0.RELEASE.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.glassfish.web/jstl-impl/1.2/source/2e5ebd392d8e3f79588e29bedd4f4aa5708b99cc/jstl-impl-1.2-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.glassfish.web/jstl-impl/1.2/jar/611c12c6b993586852685f410658924b219ca326/jstl-impl-1.2.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-webmvc/3.2.0.RELEASE/source/168c190e105c99c4f0e08cd9f292d3d0b3563875/spring-webmvc-3.2.0.RELEASE-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-webmvc/3.2.0.RELEASE/jar/369f4366a41e0da8ac9cd253c18d7ffd12e0507c/spring-webmvc-3.2.0.RELEASE.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/javax.servlet.jsp.jstl/jstl-api/1.2/source/b7b976db29290621db582b38c1db9c22ff439f89/jstl-api-1.2-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/javax.servlet.jsp.jstl/jstl-api/1.2/jar/f9a034c1ca1f79c03bb461805a688f944544d138/jstl-api-1.2.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.aspectj/aspectjrt/1.6.10/source/cb571f30ee80c00cec5df11ecade87a85c7a5b8d/aspectjrt-1.6.10-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.aspectj/aspectjrt/1.6.10/jar/30217090975652be712dcc9f0499c1cab1344927/aspectjrt-1.6.10.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/com.google.guava/guava/14.0.1/source/169f11e28e3ed9a64e9fa895eaafb579e6a5aa6c/guava-14.0.1-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/com.google.guava/guava/14.0.1/bundle/69e12f4c6aeac392555f1ea86fab82b5e5e31ad4/guava-14.0.1.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/mysql/mysql-connector-java/5.1.6/jar/380ef5226de2c85ff3b38cbfefeea881c5fce09d/mysql-connector-java-5.1.6.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/com.twilio.sdk/twilio-java-sdk/3.3.15/source/eba00fb2fd417320a2c12f9c0da2e099d4040929/twilio-java-sdk-3.3.15-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/com.twilio.sdk/twilio-java-sdk/3.3.15/jar/f4f4f85b8480c104ce7486b04fb0bf8a1ae789c2/twilio-java-sdk-3.3.15.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/commons-fileupload/commons-fileupload/1.2.2/source/8c269e2558e16ae7bab69df299d51f291a09eea0/commons-fileupload-1.2.2-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/commons-fileupload/commons-fileupload/1.2.2/jar/1e48256a2341047e7d729217adeec8217f6e3a1a/commons-fileupload-1.2.2.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/commons-io/commons-io/2.0.1/source/8ace0a355c375f0d20d04fa0db7b986c6637a689/commons-io-2.0.1-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/commons-io/commons-io/2.0.1/jar/7ffdb02f95af1c1a208544e076cea5b8e66e731a/commons-io-2.0.1.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.slf4j/slf4j-api/1.6.1/source/46a386136c901748e6a3af67ebde6c22bc6b4524/slf4j-api-1.6.1-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.slf4j/slf4j-api/1.6.1/jar/6f3b8a24bf970f17289b234284c94f43eb42f0e4/slf4j-api-1.6.1.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.slf4j/jcl-over-slf4j/1.6.1/source/dbc80dfd897e3bc528199ff97e29e44a0ac4b462/jcl-over-slf4j-1.6.1-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.slf4j/jcl-over-slf4j/1.6.1/jar/99c61095a14dfc9e47a086068033c286bf236475/jcl-over-slf4j-1.6.1.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.slf4j/slf4j-log4j12/1.6.1/source/7a26b08b265f55622fa1fed3bda68bbd37a465ba/slf4j-log4j12-1.6.1-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.slf4j/slf4j-log4j12/1.6.1/jar/bd245d6746cdd4e6203e976e21d597a46f115802/slf4j-log4j12-1.6.1.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/log4j/log4j/1.2.16/source/bf945d1dc995be7fe64923625f842fbb6bf443be/log4j-1.2.16-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/log4j/log4j/1.2.16/bundle/7999a63bfccbc7c247a9aea10d83d4272bd492c6/log4j-1.2.16.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/javax.inject/javax.inject/1/source/a00123f261762a7c5e0ec916a2c7c8298d29c400/javax.inject-1-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/javax.inject/javax.inject/1/jar/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/net.java.dev.rome/rome/1.0.0/source/d42c954739798a431796f8617536860d1ae8dc6c/rome-1.0.0-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/net.java.dev.rome/rome/1.0.0/jar/8b4f0da455c59746435e987285b30c22b09ba18d/rome-1.0.0.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/javax.validation/validation-api/1.0.0.GA/source/7a561191db2203550fbfa40d534d4997624cd369/validation-api-1.0.0.GA-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/javax.validation/validation-api/1.0.0.GA/jar/b6bd7f9d78f6fdaa3c37dae18a4bd298915f328e/validation-api-1.0.0.GA.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.hibernate/hibernate-validator/4.1.0.Final/source/5aedf89618da0bfd96c6ebb9ff88cb1876500d17/hibernate-validator-4.1.0.Final-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.hibernate/hibernate-validator/4.1.0.Final/jar/785cceeb0b0dbd03367f45cd60eb26cd48167640/hibernate-validator-4.1.0.Final.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/joda-time/joda-time/1.6.2/source/462b1672787aa4aabf1dab6f9752c2cc14bfd652/joda-time-1.6.2-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/joda-time/joda-time/1.6.2/jar/7a0525fe460ef5b99ea3152e6d2c0e4f24f04c51/joda-time-1.6.2.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/javax.servlet.jsp/jsp-api/2.1/source/1c9e754118cf8d3d85b6b1257fb6fb0f914d08c6/jsp-api-2.1-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/javax.servlet.jsp/jsp-api/2.1/jar/63f943103f250ef1f3a4d5e94d145a0f961f5316/jsp-api-2.1.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.apache.tomcat/tomcat-servlet-api/7.0.30/source/2bec37aac68d5aeec53c0d8756bf63e780bcb83a/tomcat-servlet-api-7.0.30-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.apache.tomcat/tomcat-servlet-api/7.0.30/jar/882c58181a25d8e1e94b3cdc231eba869f268bf8/tomcat-servlet-api-7.0.30.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-test/3.2.0.RELEASE/source/f8de9ebe7c693efd1f3f5e52c50a84fe33eba6d4/spring-test-3.2.0.RELEASE-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-test/3.2.0.RELEASE/jar/c77f6ee4d83ef5b0105a5d8aec7d35c602c56f88/spring-test-3.2.0.RELEASE.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/junit/junit/4.8.2/source/cccca612a66b8387c399be31d69daf000de2ac9e/junit-4.8.2-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/junit/junit/4.8.2/jar/c94f54227b08100974c36170dcb53329435fe5ad/junit-4.8.2.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/xmlunit/xmlunit/1.2/jar/9a8543988f6a1a1e584ae7bef34fd88825c54e1e/xmlunit-1.2.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/com.jayway.jsonpath/json-path/0.8.1/source/feb75e085b9416a4d817d4dd4d1e5c7ed17d9e1b/json-path-0.8.1-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/com.jayway.jsonpath/json-path/0.8.1/bundle/fbcad75a02160def33c4359b24015cca2d91ccce/json-path-0.8.1.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.hamcrest/hamcrest-library/1.3/source/47a7ee46628ab7133129cd7cef1e92657bc275e/hamcrest-library-1.3-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.hamcrest/hamcrest-library/1.3/jar/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.codehaus.jackson/jackson-mapper-asl/1.9.3/source/ff4fdbc6c12ac7ff7a727cd80cd71a059a0ec179/jackson-mapper-asl-1.9.3-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.codehaus.jackson/jackson-mapper-asl/1.9.3/jar/dd1373fe304f64ae3daa50e67b9b9cf6995ec1a0/jackson-mapper-asl-1.9.3.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/commons-logging/commons-logging/1.1.1/source/f3f156cbff0e0fb0d64bfce31a352cce4a33bc19/commons-logging-1.1.1-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/commons-logging/commons-logging/1.1.1/jar/5043bfebc3db072ed80fbd362e7caf00e885d8ae/commons-logging-1.1.1.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-core/3.2.0.RELEASE/source/91091c193613cdb0ca91450629d150fa634aa420/spring-core-3.2.0.RELEASE-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-core/3.2.0.RELEASE/jar/1a80f0e1405219a19cf3e1b30812f73de8e117d/spring-core-3.2.0.RELEASE.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-beans/3.2.0.RELEASE/source/ad3c5b55ba655de682c281923f5f6d44781204b4/spring-beans-3.2.0.RELEASE-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-beans/3.2.0.RELEASE/jar/70459b8d062753f8ce2441bcbb121b21c412d939/spring-beans-3.2.0.RELEASE.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/aopalliance/aopalliance/1.0/source/4a4b6d692e17846a9f3da036438a7ac491d3c814/aopalliance-1.0-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/aopalliance/aopalliance/1.0/jar/235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-aop/3.2.0.RELEASE/source/37c3664275b11b275a31b47fda903db7057c1623/spring-aop-3.2.0.RELEASE-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-aop/3.2.0.RELEASE/jar/c2f83b789d0675ad7327f9aadb4f162106452ec5/spring-aop-3.2.0.RELEASE.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-expression/3.2.0.RELEASE/source/860fdb4461d3ae8d21b5422d641f2e2b90e3ecc6/spring-expression-3.2.0.RELEASE-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-expression/3.2.0.RELEASE/jar/b9273cb6246f57b40dced071ed04d80654ae5645/spring-expression-3.2.0.RELEASE.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-web/3.2.0.RELEASE/source/adb42bc3d0658c2d5ce768f0b2cac16d34ba4110/spring-web-3.2.0.RELEASE-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-web/3.2.0.RELEASE/jar/1faf6a6438c43d273b6f2f7996d4a6d900b55b5a/spring-web-3.2.0.RELEASE.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/javax.servlet/servlet-api/2.5/source/21599814ad9a605b86f3e6381571beccd861a32/servlet-api-2.5-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/javax.servlet/servlet-api/2.5/jar/5959582d97d8b61f4d154ca9e495aafd16726e34/servlet-api-2.5.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.apache.httpcomponents/httpcore/4.1.2/source/b3141b5e74071e25f0f5bb337fa2ceae580bfc35/httpcore-4.1.2-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.apache.httpcomponents/httpcore/4.1.2/jar/39e30fb2ddfcf32b9dd663039ca6e847b698aa6f/httpcore-4.1.2.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/commons-codec/commons-codec/1.4/source/5310da9f90e843883309e9e0bf5950faa79882a0/commons-codec-1.4-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/commons-codec/commons-codec/1.4/jar/4216af16d38465bbab0f3dff8efa14204f7a399a/commons-codec-1.4.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.apache.httpcomponents/httpclient/4.1.2/source/dc49f8801031e5318f9487e2aa9e23a301c39dcd/httpclient-4.1.2-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.apache.httpcomponents/httpclient/4.1.2/jar/9003011c1b6d28a7331f04251a25e7ccf63c98f8/httpclient-4.1.2.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/commons-lang/commons-lang/2.6/source/67313d715fbf0ea4fd0bdb69217fb77f807a8ce5/commons-lang-2.6-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/commons-lang/commons-lang/2.6/jar/ce1edb914c94ebc388f086c6827e8bdeec71ac2/commons-lang-2.6.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/com.googlecode.json-simple/json-simple/1.1/source/19c6d8dee6803c520d855ff7e8a8c3d97f1271ec/json-simple-1.1-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/com.googlecode.json-simple/json-simple/1.1/jar/5e303a03d04e6788dddfa3655272580ae0fc13bb/json-simple-1.1.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.codehaus.jackson/jackson-core-asl/1.9.3/source/b692cea649e1dd96fba1b7c0b5dfbae6f316b718/jackson-core-asl-1.9.3-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.codehaus.jackson/jackson-core-asl/1.9.3/jar/e96286e8ebe4c5523d5621278dc2114116108a0e/jackson-core-asl-1.9.3.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/jdom/jdom/1.0/source/662abe0196cf554d4d7374f5d6382034171b652c/jdom-1.0-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/jdom/jdom/1.0/jar/a2ac1cd690ab4c80defe7f9bce14d35934c35cec/jdom-1.0.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/net.minidev/json-smart/1.1.1/source/29bec1d88866042dcfd32c8247744bb6ef9bbf54/json-smart-1.1.1-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/net.minidev/json-smart/1.1.1/jar/24a2f903d25e004de30ac602c5b47f2d4e420a59/json-smart-1.1.1.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.hamcrest/hamcrest-core/1.3/source/1dc37250fbc78e23a65a67fbbaf71d2e9cbc3c0b/hamcrest-core-1.3-sources.jar" kind="lib" path="/Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.hamcrest/hamcrest-core/1.3/jar/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
 </classpath>

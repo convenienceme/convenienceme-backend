@@ -1,13 +1,21 @@
 package me.convenience.api.model;
 
+import java.io.Serializable;
+
 /**
  * 
  * @author jsreevalsan
  *
  */
-public class Alert {
+ 
+public class Alert implements Serializable {
 
-	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
+	 
 	private String alertId; 
 	
 	private String alertString ;

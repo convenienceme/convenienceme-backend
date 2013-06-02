@@ -107,5 +107,11 @@
 			<dependency-type>uses</dependency-type>
 		</dependent-module>
 		<wb-resource deploy-path="/" source-path="src/main/webapp"/>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/mysql/mysql-connector-java/5.1.6/jar/380ef5226de2c85ff3b38cbfefeea881c5fce09d/mysql-connector-java-5.1.6.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/javax.servlet/servlet-api/2.5/jar/5959582d97d8b61f4d154ca9e495aafd16726e34/servlet-api-2.5.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
 	</wb-module>
 </project-modules>

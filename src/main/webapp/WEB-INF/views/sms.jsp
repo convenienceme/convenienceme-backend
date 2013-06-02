@@ -36,7 +36,7 @@
 		  		<form:label path="smsText">
 		  			Text <form:errors path="smsText" cssClass="error" />
 		 		</form:label>
-		 		<form:textarea path="smsText" />
+		 		<form:textarea path="smsText" /> 
 		  		 
 	
 		  	</fieldset>

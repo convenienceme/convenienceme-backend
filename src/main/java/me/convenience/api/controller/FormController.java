@@ -60,7 +60,11 @@ public class FormController {
  
 		Status s = new Status() ;
 		
-		if(credentials.getUserName().equalsIgnoreCase("bb@ben")){
+		if(	credentials.getUserName().equalsIgnoreCase("msutherland@me.com") |
+				credentials.getUserName().equalsIgnoreCase("bb@benhbell.com") |
+				credentials.getUserName().equalsIgnoreCase("aabella@convenience.me") 
+				
+				){
 			s.setStatusCd("1") ; 
 			s.setStatusDesc("Success");
 		}else{
