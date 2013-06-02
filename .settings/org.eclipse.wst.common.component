@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="2.0">
+	<wb-module deploy-name="con">
+		<property name="context-root" value="con"/>
+		<wb-resource deploy-path="/WEB-INF/classes" source-path="src/main/resources"/>
+		<wb-resource deploy-path="/WEB-INF/classes" source-path="src/main/java"/>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.slf4j/jcl-over-slf4j/1.6.1/jar/99c61095a14dfc9e47a086068033c286bf236475/jcl-over-slf4j-1.6.1.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.slf4j/slf4j-api/1.6.1/jar/6f3b8a24bf970f17289b234284c94f43eb42f0e4/slf4j-api-1.6.1.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/joda-time/joda-time/1.6.2/jar/7a0525fe460ef5b99ea3152e6d2c0e4f24f04c51/joda-time-1.6.2.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-expression/3.2.0.RELEASE/jar/b9273cb6246f57b40dced071ed04d80654ae5645/spring-expression-3.2.0.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/javax.inject/javax.inject/1/jar/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-webmvc/3.2.0.RELEASE/jar/369f4366a41e0da8ac9cd253c18d7ffd12e0507c/spring-webmvc-3.2.0.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-core/3.2.0.RELEASE/jar/1a80f0e1405219a19cf3e1b30812f73de8e117d/spring-core-3.2.0.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.slf4j/slf4j-log4j12/1.6.1/jar/bd245d6746cdd4e6203e976e21d597a46f115802/slf4j-log4j12-1.6.1.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/commons-logging/commons-logging/1.1.1/jar/5043bfebc3db072ed80fbd362e7caf00e885d8ae/commons-logging-1.1.1.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/commons-fileupload/commons-fileupload/1.2.2/jar/1e48256a2341047e7d729217adeec8217f6e3a1a/commons-fileupload-1.2.2.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.aspectj/aspectjrt/1.6.10/jar/30217090975652be712dcc9f0499c1cab1344927/aspectjrt-1.6.10.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.codehaus.jackson/jackson-core-asl/1.9.3/jar/e96286e8ebe4c5523d5621278dc2114116108a0e/jackson-core-asl-1.9.3.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/com.twilio.sdk/twilio-java-sdk/3.3.15/jar/f4f4f85b8480c104ce7486b04fb0bf8a1ae789c2/twilio-java-sdk-3.3.15.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.apache.httpcomponents/httpclient/4.1.2/jar/9003011c1b6d28a7331f04251a25e7ccf63c98f8/httpclient-4.1.2.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/commons-lang/commons-lang/2.6/jar/ce1edb914c94ebc388f086c6827e8bdeec71ac2/commons-lang-2.6.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.glassfish.web/jstl-impl/1.2/jar/611c12c6b993586852685f410658924b219ca326/jstl-impl-1.2.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/log4j/log4j/1.2.16/bundle/7999a63bfccbc7c247a9aea10d83d4272bd492c6/log4j-1.2.16.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/net.java.dev.rome/rome/1.0.0/jar/8b4f0da455c59746435e987285b30c22b09ba18d/rome-1.0.0.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/commons-codec/commons-codec/1.4/jar/4216af16d38465bbab0f3dff8efa14204f7a399a/commons-codec-1.4.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.apache.httpcomponents/httpcore/4.1.2/jar/39e30fb2ddfcf32b9dd663039ca6e847b698aa6f/httpcore-4.1.2.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/javax.servlet.jsp.jstl/jstl-api/1.2/jar/f9a034c1ca1f79c03bb461805a688f944544d138/jstl-api-1.2.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/com.google.guava/guava/14.0.1/bundle/69e12f4c6aeac392555f1ea86fab82b5e5e31ad4/guava-14.0.1.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-web/3.2.0.RELEASE/jar/1faf6a6438c43d273b6f2f7996d4a6d900b55b5a/spring-web-3.2.0.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/com.googlecode.json-simple/json-simple/1.1/jar/5e303a03d04e6788dddfa3655272580ae0fc13bb/json-simple-1.1.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/javax.validation/validation-api/1.0.0.GA/jar/b6bd7f9d78f6fdaa3c37dae18a4bd298915f328e/validation-api-1.0.0.GA.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/aopalliance/aopalliance/1.0/jar/235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/commons-io/commons-io/2.0.1/jar/7ffdb02f95af1c1a208544e076cea5b8e66e731a/commons-io-2.0.1.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/javax.servlet.jsp/jsp-api/2.1/jar/63f943103f250ef1f3a4d5e94d145a0f961f5316/jsp-api-2.1.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.hibernate/hibernate-validator/4.1.0.Final/jar/785cceeb0b0dbd03367f45cd60eb26cd48167640/hibernate-validator-4.1.0.Final.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/jdom/jdom/1.0/jar/a2ac1cd690ab4c80defe7f9bce14d35934c35cec/jdom-1.0.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.codehaus.jackson/jackson-mapper-asl/1.9.3/jar/dd1373fe304f64ae3daa50e67b9b9cf6995ec1a0/jackson-mapper-asl-1.9.3.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-context/3.2.0.RELEASE/jar/b01912a07f727ec6d269f5275e783d662d3bafde/spring-context-3.2.0.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-aop/3.2.0.RELEASE/jar/c2f83b789d0675ad7327f9aadb4f162106452ec5/spring-aop-3.2.0.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/jsreevalsan/.gradle/caches/artifacts-15/filestore/org.springframework/spring-beans/3.2.0.RELEASE/jar/70459b8d062753f8ce2441bcbb121b21c412d939/spring-beans-3.2.0.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<wb-resource deploy-path="/" source-path="src/main/webapp"/>
+	</wb-module>
+</project-modules>
